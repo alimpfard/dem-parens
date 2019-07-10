@@ -1,0 +1,24 @@
+{
+  "context-menu": {
+    "atom-text-editor": [{
+      "label": "activate dem-parens",
+      "command": "dem-parens:start_exec"
+    }, {
+      "label": "deactivate dem-parens",
+      "command": "dem-parens:stop_exec"
+    }]
+  },
+  "menu": [{
+    "label": "Packages",
+    "submenu": [{
+      "label": "dem-parens",
+      "submenu": [{
+        "label": "Activate",
+        "command": "dem-parens:start_exec"
+      }, {
+        "label": "Deactivate",
+        "command": "dem-parens:stop_exec"
+      }]
+    }]
+  }]
+}

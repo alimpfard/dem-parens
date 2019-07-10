@@ -1,0 +1,16 @@
+{
+  "name": "dem-parens",
+  "main": "./lib/dem-parens",
+  "version": "0.0.1",
+  "description": "Stupid code resizing for the current 'block'",
+  "keywords": ["acme", "stupid", "fold", "resize"],
+  "activationCommands": {
+    "atom-workspace": "dem-parens:start_exec"
+  },
+  "repository": "https://github.com/alimpfard/dem-parens",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

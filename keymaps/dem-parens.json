@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "dem-parens:start_exec",
+    "ctrl-alt-p": "dem-parens:stop_exec"
+  }
+}
