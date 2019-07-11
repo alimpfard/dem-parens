@@ -1,7 +1,7 @@
 {
   "name": "dem-parens",
   "main": "./lib/dem-parens",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stupid code resizing for the current 'block'",
   "keywords": [
     "acme",
